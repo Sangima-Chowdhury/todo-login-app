@@ -21,5 +21,4 @@ A Flask-based web application with user registration, login authentication, pass
 ## What I Learned
 This project helped me understand how backend authentication works, how user data is stored securely, how Flask routes connect with HTML templates, and how databases work inside a web application.
 
-## GitHub
-https://github.com/Sangima-Chowdhury/todo-login-app
+
